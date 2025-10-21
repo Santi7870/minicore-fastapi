@@ -1,0 +1,15 @@
+﻿# Python venv
+.venv/
+venv/
+
+# Node/Vite
+node_modules/
+dist/
+
+# VSCode
+.vscode/
+
+# Sistema
+__pycache__/
+*.pyc
+.DS_Store
